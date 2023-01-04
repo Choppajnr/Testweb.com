@@ -1,0 +1,46 @@
+<html>
+	<head>
+		<title>
+		Content
+		</title>
+	</head>
+	<style>
+			body{
+				 background: url("giphy.gif");
+				 background-attachment: fixed ;
+				 background-size: cover ;
+				 }
+		</style>
+		
+	<body background="giphy.gif" >
+	<a href = "Coverpage.html">Home page</a>
+	<img src ="car.img">
+	
+	<h1>Discussion and Analysis</h1>
+	<h2>IMPACT</h2>
+	<p>The impact of privacy in smartphones is global,
+	many around the world use smartphones on a daily bases and even now as you are reading internet is being accessed  through a smartphone,
+	but not many know of the implications and the privacy risks that come with smartphones hence many are hacked and personal details are stolen,
+	in many cases without them even knowing or noticing</p>
+	<h2>EFFECT</h2>
+	<p>The effect of this lack of knowledge in many cases has led  to people being robbed of their privacy,
+	in the sense that many have lost their banking details, private information on their smartphones like the likes of their sensitive work information,
+	email addresses , phone passwords etc,
+	and all this is the effect of having little or no information regarding safety issues and privacy concerns in smartphones.</p>
+	<h2>SOLUTIONS</h2>
+	<p>I think and adequate and effective solution to this problem is for people to be more informed about these privacy issues, 
+	applications should entail the risks concerning blindly accepting the terms and conditions that come with the applications ,
+	websites should share more information about being on their website and the risks that many come with it if the user accepts cookies and the terms and conditions that come with being on the website,
+	the government and banks, should also pull their weight, in the sense of putting more precautions to protect banking details in the case of smartphones being hackled that’s what the banks may do,
+	in the case of the government they need to put stricter laws in place and restrictions so that the perpetrators may know that there are hefty consequences for hacking and stealing information on smartphones and invading the privacy of others</p>
+	<h1>Findings</h1>
+	<p>I have gathered that the average age of the respondents is 18 and this age group is more prone to being victims of privacy loss in smartphones and losing details,
+	because stats tell that majority of this age group(teenagers) are prone to blindly accepting terms and conditions of applications and cookies of websites without reading what the entail
+	, I have discovered this through my investigation and my questionnaire  and the stats show that most of this age group do not know the privacy risks concerning privacy in smartphones all this contributes to loss of privacy in smartphones.</p>
+	<h2> Graphs</h2>
+	<img src="Graphs.png"> graphs<img>
+	<p></p>
+	
+	</body>
+	
+</html>
